@@ -1,8 +1,7 @@
-- 👋 Hi, I’m braydon webster
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Braydon Webster
+- 👀 I’m interested in becoming a full stack developer.  
+- 🌱 I’m currently learning JavaScript 
+- 📫 How to reach me: braydonwebs@gmail.com
 
 <!---
 braydonlilb/braydonlilb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

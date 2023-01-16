@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Braydon Webster
 - 🤩 I like most things nerd, I love challenging puzzles, and I'm detail oriented and appreciate the little things. 
 - 👀 I’m interested in becoming a full stack developer.  
-- 🌱 I’m currently learning HTML, CSS, and Python.
+- 🌱 I’m familiar and somewhat proficient in HTML and CSS, and I am also learning how to use Python.
 - 📫 How to reach me: braydonwebs@gmail.com or 385-625-8970
 
 <!---
